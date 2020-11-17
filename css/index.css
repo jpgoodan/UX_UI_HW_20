@@ -11,5 +11,21 @@
   background-color: white;
 }
 p {
-  width: 50%;
+  width: 70%;
+}
+.rowbody {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.coltext {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.coltext2 {
+  margin-top: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.spacebox {
+  margin-top: 100px;
 }
