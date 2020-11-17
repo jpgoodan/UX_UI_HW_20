@@ -1,0 +1,15 @@
+#navigation {
+    color: rgb(237, 237, 237);
+    display: flex;
+    width: 30%;
+    margin-left: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: karla;
+  }
+.jumbotron {
+  background-color: white;
+}
+p {
+  width: 50%;
+}
